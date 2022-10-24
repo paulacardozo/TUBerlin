@@ -1,3 +1,2 @@
-# TU-Berlin (Technische Universität Berlin) Summer University homeworks.
-Course: Data Science with Python
-Lecturer: Sergej Dogadov 
+# TU-Berlin (Technische Universität Berlin) Summer University projects
+Course: Data Science with Python (July-2022 until August 2022). Lecturer: Sergej Dogadov.
